@@ -15,5 +15,4 @@ const BookList = (props) => {
     </section>
   );
 };
-
 ReactDom.render(<BookList />, document.getElementById("root"));
